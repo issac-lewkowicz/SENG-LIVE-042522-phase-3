@@ -34,7 +34,7 @@ class DogsController < ApplicationController
     dog.destroy
     status 204
   end
-  
+   
 
   private 
 
